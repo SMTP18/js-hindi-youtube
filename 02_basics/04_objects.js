@@ -57,6 +57,8 @@ users[1].email
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
 
+//Video Number -18
+//+++++++++++++++++++++++++ Obejct De Structure +++++++++++++++++++++++++++
 const course = {
     coursename: "js in hindi",
     price: "999",
