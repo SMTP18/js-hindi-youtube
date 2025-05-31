@@ -1,4 +1,4 @@
-//Video Number 17
+//Video Number 17 and Video 18
 
 // const tinderUser = new Object()
 const tinderUser = {}
